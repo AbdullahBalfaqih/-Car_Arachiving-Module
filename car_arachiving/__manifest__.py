@@ -2,7 +2,7 @@
     'name': 'Car Archive Management',
     'version': '1.0.0',
     'sequence': -100,
-    'author': 'Your Name Here',
+    'author': 'Abdullah Balfaqih',
     'website': 'www.yourwebsite.com',
     'category': 'Automotive',
     'summary': 'Car archive management system',
